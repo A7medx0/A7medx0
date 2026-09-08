@@ -1,4 +1,9 @@
 <div align="center">
+<br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+
+<br><br>
 
 # 👋 Hi, I'm A7hmedx0
 
@@ -12,11 +17,6 @@ I enjoy building applications, learning new technologies, and turning ideas into
 Currently focused on <b>Java Development</b>, <b>Front-End Development</b>, and <b>Cybersecurity</b>.
 </p>
 
-<br>
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-
-<br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A7hmedx0\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
@@ -173,19 +173,23 @@ Database
 ```
 
 ---
-
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=A7hmedx0&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/A7hmedx0">
+  <img src="https://github-readme-stats.vercel.app/api?username=A7hmedx0&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</a>
+
+<a href="https://github.com/A7hmedx0">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7hmedx0&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</a>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=A7hmedx0&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
