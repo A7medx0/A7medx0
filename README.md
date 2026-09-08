@@ -14,7 +14,7 @@ Currently focused on <b>Java Development</b>, <b>Front-End Development</b>, and 
 
 <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="45%"/>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
 <br><br>
 
@@ -53,8 +53,8 @@ Currently focused on <b>Java Development</b>, <b>Front-End Development</b>, and 
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat\&logo=oracle\&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat\&logo=oracle\&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat\&logo=oracle\&logoColor=white)
 
 ### Tools
 
@@ -103,7 +103,6 @@ I enjoy creating clean and interactive web interfaces using:
 * CSS3
 * JavaScript
 * Responsive Web Design
-* UI/UX Fundamentals
 
 ---
 
@@ -132,7 +131,7 @@ A Java-based system designed to manage airport operations and information.
 
 **Technologies:**
 
-`Java` `OOP` `JavaFX` `Database`
+`Java` `OOP` `JavaFX` `PL/SQL`
 
 ---
 
@@ -140,9 +139,9 @@ A Java-based system designed to manage airport operations and information.
 
 Projects involving:
 
-* SQL
 * Oracle Database
 * PL/SQL
+* SQL
 * Database Design
 * Database Auditing
 * Triggers
@@ -168,6 +167,9 @@ Cybersecurity
  ├── Networking
  ├── Web Security
  └── Ethical Hacking
+
+Database
+ └── PL/SQL
 ```
 
 ---
