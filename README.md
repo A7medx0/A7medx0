@@ -131,7 +131,7 @@ A Java-based system designed to manage airport operations and information.
 
 **Technologies:**
 
-`Java` `OOP` `JavaFX` `PL/SQL`
+`Java` `OOP` `JavaFX` 
 
 ---
 
@@ -174,13 +174,13 @@ Database
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-![A7hmedx0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7hmedx0\&show_icons=true\&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=A7hmedx0&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7hmedx0\&layout=compact\&theme=tokyonight)
+</div>
 
 </div>
 
